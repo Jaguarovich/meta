@@ -1,4 +1,5 @@
 @media (max-width: 1339px) {
+   /* Footer start */
   ._container {
     max-width: 890px;
   }
@@ -39,4 +40,5 @@
     width: 27.24px;
     height: auto;
   }
+   /* Footer end */
 }

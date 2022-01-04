@@ -1,8 +1,8 @@
 @media (max-width: 1919px) {
+  /* Footer start */
   ._container {
     max-width: 1238px;
   }
-
   .footer_left_block {
     height: 165px;
   }
@@ -41,39 +41,5 @@
     width: 34.24px;
     height: 34.24px;
   }
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  /* Footer end */
 }
