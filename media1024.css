@@ -1,9 +1,41 @@
 @media (max-width: 1339px) {
-   /* Footer start */
   ._container {
     max-width: 890px;
   }
+ /* Partners start */
+ .partners_left_block {
+  width: 367px;
+  height: 387.57px;
+  margin-left: 67px;
+}
+.partners_right_block h2 {
+  font-size: 35px;
+  margin-top: 65px;
+  margin-left: 62px;
+}
+.partners_right_block p {
+  font-size: 17px;
+  margin-left: 62px;
+  margin-top: 20px;
+}
+.button_start {
+  margin-left: 62px;
+  margin-top: 42px;
+  width: 134px;
+  height: 28.53px;
+  font-size: 17px;
+  line-height: 20px;
+}
+#partners_logo_1 {
+  width: 354.16px;
+}
+#partners_logo_2 {
+  width: 365.42px;
+  top: 39.42px;
+}
+ /* Partners finish */
 
+ /* Footer start */
   .footer_left_block, 
   .footer_right_block  {
     height: 119px;

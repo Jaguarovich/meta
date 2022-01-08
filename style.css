@@ -45,6 +45,66 @@ html a {
   max-width: 1636px;
   margin: 0 auto;
 }
+/* Partners start */
+.partners {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  height: min-content;
+  background: linear-gradient(
+    360deg,
+    rgba(3, 174, 161, 0.3066) 2.13%,
+    rgba(62, 33, 65, 0) 97.49%
+  );
+  border-radius: 20px;
+}
+.partners_left_block {
+  width: 692px;
+  height: 742px;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+.partners_right_block h2 {
+  font-weight: bold;
+  font-size: 61px;
+  color: #ffffff;
+  margin-top: 155px;
+  margin-left: 81px;
+}
+.partners_right_block p {
+  font-size: 31px;
+  color: rgba(223, 251, 255, 0.9);
+  margin-left: 81px;
+  margin-bottom: 0px;
+  margin-top: 50px;
+}
+.button_start {
+  margin-left: 81px;
+  margin-top: 50px;
+  background: rgba(153, 22, 96, 0.3);
+  border: 2px solid #2bf3fe;
+  box-sizing: border-box;
+  border-radius: 15px;
+  width: 247px;
+  height: 53px;
+  font-size: 31px;
+  line-height: 36px;
+  color: #ffc999;
+}
+#partners_logo_1 {
+  width: 667.78px;
+  height: auto;
+  position: absolute;
+  top: 0px;
+}
+#partners_logo_2 {
+  width: 689.02px;
+  height: auto;
+  position: absolute;
+  top: 75.5px;
+}
+/* Footer finish */
+
 /* Footer start */
 .footer {
   display: flex;

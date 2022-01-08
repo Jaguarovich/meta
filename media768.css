@@ -1,12 +1,47 @@
 @media (max-width: 1023px) {
-      /* Footer start */
   ._container {
-    display: block;
-    background: none;
-    max-width: 689px;
-    border-radius: 0px;
+    width: 728px;
   }
+ /* Partners start */
+ .partners_left_block {
+  width: 388.37px;
+  height: 366.08px;
+  margin-left: 170px;
+}
+.partners_right_block h2 {
+  font-size: 40px;
+  line-height: 47px;
+  margin-top: 65px;
+  margin-left: 62px;
+}
+.partners_right_block p {
+  font-size: 23px;
+  line-height: 27px;
+  margin-left: 62px;
+  margin-top: 20px;
+}
+.button_start {
+  margin-left: 62px;
+  margin-top: 42px;
+  width: 134px;
+  height: 28.53px;
+  font-size: 17px;
+  line-height: 20px;
+} 
 
+
+
+
+
+
+
+  /* Footer start */
+.footer {
+  display: block;
+  background: none;
+  border-radius: 0px;
+}  
+}
   .footer_left_block {
     height: 193px;
     background: linear-gradient(
