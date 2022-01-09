@@ -8,6 +8,7 @@
     height: 560.93px;
     margin-left: 88px;
   }
+
   .partners_right_block h2 {
     font-size: 48px;
     margin-top: 101px;
@@ -18,6 +19,7 @@
     font-size: 24px;
     margin-left: 62px;
     margin-top: 30px;
+    max-width: 519px;
   }
   .button_start {
     margin-left: 62px;

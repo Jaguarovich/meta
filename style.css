@@ -70,6 +70,8 @@ html a {
   color: #ffffff;
   margin-top: 155px;
   margin-left: 81px;
+  max-width: 313px;
+
 }
 .partners_right_block p {
   font-size: 31px;
@@ -77,6 +79,7 @@ html a {
   margin-left: 81px;
   margin-bottom: 0px;
   margin-top: 50px;
+  max-width: 664px;
 }
 .button_start {
   margin-left: 81px;
