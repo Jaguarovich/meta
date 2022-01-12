@@ -2,7 +2,61 @@
   ._container {
     max-width: 1238px;
   }
-   /* Partners start */
+  /* Tokenomica start */
+  .tokenomica {
+    margin-bottom: 100px;
+  }
+  .tokenomica h2 {
+    font-size: 48px;
+    line-height: 56px;
+  }
+  .tokenomica_left {
+    width: 801px;
+    height: 280px;
+  }
+  .tokenomica_left p {
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 42px;
+    margin-top: 30px;
+    margin-right: 10px;
+  }
+  .tokenomica_right_text {
+    width: 393px;
+    height: 34px;
+    margin-top: 12px;
+  }
+  #tokenomica_2 {
+    width: 351px;
+    height: 34px;
+  }
+  #tokenomica_3 {
+    width: 237px;
+    height: 34px;
+  }
+  #tokenomica_4 {
+    width: 202px;
+    height: 34px;
+  }
+  #tokenomica_5 {
+    width: 174px;
+    height: 34px;
+  }
+  #tokenomica_6 {
+    width: 105px;
+    height: 34px;
+  }
+  .tokenomica_right_text > p {
+    font-size: 18px;
+    line-height: 21px;
+    margin-left: 14px;
+  }
+  .tokenomica_right_percent {
+    font-size: 18px;
+    line-height: 21px;
+  }
+
+  /* Partners start */
   .partners_left_block {
     width: 523.63px;
     height: 560.93px;
@@ -37,10 +91,10 @@
     width: 521.37px;
     top: 57px;
   }
-   /* Partners finish */
+  /* Partners finish */
 
   /* Footer start */
- 
+
   .footer_left_block {
     height: 165px;
   }

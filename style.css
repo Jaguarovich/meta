@@ -45,6 +45,109 @@ html a {
   max-width: 1636px;
   margin: 0 auto;
 }
+/* Tokenomica start */
+.tokenomica {
+  margin-bottom: 140px;
+}
+.tokenomica_full {
+  display: flex;
+}
+.tokenomika_line {
+  display: none;
+}
+.tokenomica h2 {
+  font-weight: bold;
+  font-size: 61px;
+  line-height: 71px;
+  color: #ffffff;
+  text-align: center;
+}
+.tokenomica_left p {
+  font-size: 31px;
+  line-height: 36px;
+  color: rgba(223, 251, 255, 0.9);
+  margin-left: 55px;
+  margin-top: 38px;
+  margin-right: 22px;
+  /* max-width: 950px; */
+}
+.tokenomica_left {
+  z-index: 1;
+  background: linear-gradient(
+    270.22deg,
+    #991660 4.38%,
+    rgba(153, 22, 96, 0.12) 97.53%
+  );
+  border-radius: 15px;
+  width: 1027px;
+}
+.tokenomica_right {
+  /* display: flex; */
+  margin-top: -7px;
+  height: 42px;
+}
+.tokenomica_right_text_container {
+  display: flex;
+}
+.tokenomica_right_text {
+  margin-left: -10px;
+  z-index: 0;
+  display: flex;
+  align-items: center;
+  width: 505px;
+  height: 44px;
+  margin-top: 15px;
+  background: linear-gradient(
+    270deg,
+    rgba(3, 174, 161, 0.13) -3.29%,
+    rgba(3, 174, 161, 0.81) 88.39%,
+    rgba(2, 91, 85, 0.81) 103.39%
+  );
+}
+#tokenomica_2 {
+  width: 451px;
+  height: 44px;
+}
+#tokenomica_3 {
+  width: 313px;
+  height: 44px;
+}
+#tokenomica_4 {
+  width: 273px;
+  height: 44px;
+}
+#tokenomica_5 {
+  width: 236px;
+  height: 44px;
+}
+#tokenomica_6 {
+  width: 152px;
+  height: 44px;
+}
+
+.tokenomica_right_text > p {
+  font-size: 25px;
+  line-height: 29px;
+  margin-left: 18px;
+  color: rgba(0, 0, 0, 0.6);
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.tokenomica_right_percent {
+  display: flex;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 29px;
+  color: #013f3b;
+  align-items: center;
+}
+.tokenomica_right_percent p {
+  /* margin-top: 0px; */
+  margin-bottom: 0px;
+  margin-left: 15px;
+}
+
+/* Tokenomica finish */
 /* Partners start */
 .partners {
   position: relative;
@@ -71,7 +174,6 @@ html a {
   margin-top: 155px;
   margin-left: 81px;
   max-width: 313px;
-
 }
 .partners_right_block p {
   font-size: 31px;
